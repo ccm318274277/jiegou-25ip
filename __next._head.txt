@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/jiegou-25ip/_next/static/chunks/0dbhjjzl8qfwv.js"],"ViewportBoundary"]
+3:I[97367,["/jiegou-25ip/_next/static/chunks/0dbhjjzl8qfwv.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[27201,["/jiegou-25ip/_next/static/chunks/0dbhjjzl8qfwv.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"解构 - 一个禁言群里的半年"}],["$","meta","1",{"name":"description","content":"1925 条消息、162 天、776 张图像证据：一份关于语言、行动与作品的互动文字档案。"}],["$","link","2",{"rel":"icon","href":"/jiegou-25ip/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ssP5O6jDcnqZgE_T97s7f"}
